@@ -1,3 +1,4 @@
+#this program will take list of user defined numbers and the type of sort they want to perform. and after that the result will be shown accordingly
 lisst = input("enter the numbers separated by space ")
 print('/n')
 userlist = lisst.split()
