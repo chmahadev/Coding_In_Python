@@ -1,3 +1,4 @@
+#this program will ask the user to enter the desired string and then will display thw vowel count as output on screen
 new2 = input("Please enter the word ")
 
 def vowCount(new2):
