@@ -9,7 +9,7 @@ def mask(card_num, digits_to_keep=4, mask_char='x'):
     masked_string = re.sub('\d', mask_char, card_num, digits_to_mask)
     return masked_string
 
-print(mask(card_num))
+print("card number after masking is: "mask(card_num))
 
     
     
