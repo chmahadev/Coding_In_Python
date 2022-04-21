@@ -9,4 +9,4 @@ def vowCount(new2):
             count = count +1
     return count       
 
-print(vowCount(new2))
+print("The final vowel count is: "vowCount(new2))
